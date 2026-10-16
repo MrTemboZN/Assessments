@@ -12,7 +12,7 @@
     "beepLast5": true,
     "examCode": "PQxxx",
     "availDate": "2026-10-16",
-    "availStart": "20:00",
+    "availStart": "19:00",
     "availEnd": "23:30",
     "answerGridUrl": "https://mcq-answer-grid.web.app/"
   },
